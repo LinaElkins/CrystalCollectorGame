@@ -1,0 +1,26 @@
+body{
+    background-image:url("BG.jpeg");
+    background-color:white;
+}
+
+.crystals{
+    display: flex;
+    justify-content:space-around;
+    margin:20px;
+    align-items:center;
+}
+
+.crystal{
+    border:2px solid black;
+    height:200px;
+    width:200px;
+    float:center;
+
+}
+
+images{
+    width:auto;
+    height:auto;
+    
+
+}
