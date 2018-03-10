@@ -12,7 +12,3 @@
 //When the game begins again, the player should see a new random number. Also, all the crystals will have four new hidden values. Of course, the user's score (and score counter) will reset to zero.
 
 
-
-Issues in the game:
-1) I wasn't able to fit all my crystal pictures in the boxes like I would want to
-2) I wasn't able to insert my background picture to the page

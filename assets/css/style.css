@@ -5,6 +5,10 @@ body{
 
 }
 
+.instruction {
+    color: whitesmoke;
+}
+
 .crystals{
     display: flex;
     justify-content:space-around;
@@ -19,14 +23,15 @@ body{
     height:200px;
     width:200px;
     float:center;
-     border-radius: 5px;
+    border-radius: 5px;
     box-shadow: 5px 5px 5px rgba(0,0,0,0.5);
+    background-color:black;
 
 }
 
 images{
-    width:auto;
-    height:auto;
+    width:200px;
+    height:200px;
     
 
 }

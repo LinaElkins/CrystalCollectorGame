@@ -38,7 +38,9 @@ for(var i=0; i<4; i++){
 
        crystal.css({
         "background-image":"url('" + images[i] + "')",
-        "backrgound-size":"auto"
+        "background-size":"contain",
+        "background-repeat":"no-repeat"
+    
        })
     
 
