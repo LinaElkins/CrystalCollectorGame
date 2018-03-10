@@ -1,6 +1,8 @@
 body{
     background-image:url("BG.jpeg");
-    background-color:white;
+    background-color:lightseagreen;
+    font-family: 'Courier New', Courier, monospace;
+
 }
 
 .crystals{
@@ -8,6 +10,8 @@ body{
     justify-content:space-around;
     margin:20px;
     align-items:center;
+   
+
 }
 
 .crystal{
@@ -15,6 +19,8 @@ body{
     height:200px;
     width:200px;
     float:center;
+     border-radius: 5px;
+    box-shadow: 5px 5px 5px rgba(0,0,0,0.5);
 
 }
 
